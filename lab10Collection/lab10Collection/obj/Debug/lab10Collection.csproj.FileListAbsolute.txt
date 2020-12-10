@@ -1,0 +1,7 @@
+C:\Users\ByTech\source\repos\lab10Collection\lab10Collection\bin\Debug\lab10Collection.exe.config
+C:\Users\ByTech\source\repos\lab10Collection\lab10Collection\bin\Debug\lab10Collection.exe
+C:\Users\ByTech\source\repos\lab10Collection\lab10Collection\bin\Debug\lab10Collection.pdb
+C:\Users\ByTech\source\repos\lab10Collection\lab10Collection\obj\Debug\lab10Collection.csprojAssemblyReference.cache
+C:\Users\ByTech\source\repos\lab10Collection\lab10Collection\obj\Debug\lab10Collection.csproj.CoreCompileInputs.cache
+C:\Users\ByTech\source\repos\lab10Collection\lab10Collection\obj\Debug\lab10Collection.exe
+C:\Users\ByTech\source\repos\lab10Collection\lab10Collection\obj\Debug\lab10Collection.pdb
